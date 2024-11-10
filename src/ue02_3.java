@@ -22,6 +22,7 @@ public class ue02_3 {
         System.out.print("The point is whithin the green Zone!");
             }
         } 
+        
         else {
         
             System.out.print("The point is outside of the green Zone!");

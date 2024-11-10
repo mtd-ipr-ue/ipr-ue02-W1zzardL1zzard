@@ -35,6 +35,7 @@ public class ue02_2 {
                         days = 28;
                     }
                     break;
+                    
                 default:
                     System.out.println("Unknown error with the month.");
                     return;

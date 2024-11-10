@@ -23,6 +23,5 @@ public class ue02_1 {
             } 
     
             Out.println("Maximum: " + max);
-    
     }
 } 
